@@ -41,7 +41,7 @@ const DummyResponsive = styled(Block)`
 `;
 
 const AdProperty = {
-  client: 'ca-pub-4104372369598017',
+  client: 'ca-pub-3398516763671267',
   slot: '9171068817',
 };
 
